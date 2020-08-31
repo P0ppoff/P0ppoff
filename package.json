@@ -1,0 +1,23 @@
+{
+  "name": "p0ppoff",
+  "version": "1.0.0",
+  "description": "GitHub README",
+  "scripts": {
+    "lint": "remark ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P0ppoff/P0ppoff.git"
+  },
+  "private": false,
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P0ppoff/P0ppoff/issues"
+  },
+  "homepage": "https://github.com/P0ppoff/P0ppoff#readme",
+  "dependencies": {
+    "remark-cli": "^8.0.1",
+    "remark-preset-lint-recommended": "^4.0.1"
+  }
+}
